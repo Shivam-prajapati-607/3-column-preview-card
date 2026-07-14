@@ -27,7 +27,7 @@ Each card includes an icon, title, description, and a call-to-action button.
 
 ## Links
 
-- Live Site URL: https://
+- Live Site URL: https://shivam-prajapati-607.github.io/3-column-preview-card/
 - Repository URL: https://github.com/Shivam-prajapati-607/3-column-preview-card
 
 ## What I Learned
